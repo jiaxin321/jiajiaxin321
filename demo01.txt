@@ -1,0 +1,4 @@
+get 
+流程 ：在用户目录下创建一个文件： touch a.txt
+2.将文件放置暂存区 git add a.txt
+3.添加注释 git commit -m
